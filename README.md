@@ -43,7 +43,10 @@ markdown<h1 align="center">Gabriel Gomes</h1>
 ### Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielLuizFreireGomes&theme=darkhub&no-frame=true&row=1&column=4"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielLuizFreireGomes/GabrielLuizFreireGomes/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/GabrielLuizFreireGomes/GabrielLuizFreireGomes/output/snake.svg"/>
+  </picture>
 </p>
 
 <p align="center">
