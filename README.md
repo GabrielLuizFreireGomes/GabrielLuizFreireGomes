@@ -43,7 +43,5 @@ markdown<h1 align="center">Gabriel Gomes</h1>
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielLuizFreireGomes&show_icons=true&theme=dark&count_private=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuizFreireGomes&layout=compact&theme=dark&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielLuizFreireGomes&show_icons=true&theme=dark&count_private=true&cache_seconds=1800"/>
 </p>
