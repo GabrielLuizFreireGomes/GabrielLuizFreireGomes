@@ -43,5 +43,9 @@ markdown<h1 align="center">Gabriel Gomes</h1>
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielLuizFreireGomes&show_icons=true&theme=dark&count_private=true&cache_seconds=1800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielLuizFreireGomes&theme=darkhub&no-frame=true&row=1&column=4"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielLuizFreireGomes&color=blue&style=for-the-badge&label=VISUALIZAÇÕES"/>
 </p>
